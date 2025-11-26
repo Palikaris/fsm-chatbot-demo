@@ -456,27 +456,6 @@ async def test_valid_state_transitions():
     # ... more assertions
 ```
 
-## What This Demonstrates
-
-### Technical Skills
-✅ Clean interface abstractions (dependency injection)  
-✅ Proper separation of concerns (FSM, DB, Broker, API)  
-✅ FSM discipline for state management  
-✅ Production patterns (async/sync, queuing, streaming)  
-✅ Error handling and edge cases
-
-### Systems Thinking
-✅ Understands distributed coordination  
-✅ Knows when to use queues vs direct calls  
-✅ Thinks about scaling from the start  
-✅ Designs for testability and swappable implementations
-
-### Pragmatism
-✅ Mocks appropriately (no over-engineering)  
-✅ Focuses on demonstrating patterns, not perfection  
-✅ Documents design decisions clearly  
-✅ Shows "production-ready mindset" even in demo
-
 ## Author
 
 Built by Aris Gioutlakis as a demonstration of distributed systems patterns for AI chatbot coordination. Based on production systems built for multi-agent orchestration.
