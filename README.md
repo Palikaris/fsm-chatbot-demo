@@ -8,7 +8,7 @@ A production-pattern demonstration of distributed chatbot coordination using fin
 
 ## Overview
 
-This demo project showcases how to build a **stateful, distributed chatbot system** with proper coordination between user input, AI generation, and streaming responses. It showcases patterns commonly used in production AI systems while keeping the implementation clean and understandable.
+This demo project showcases how to build a **stateful, distributed chatbot system** with proper coordination between user input, AI generation, and streaming responses. It employs patterns commonly used in production AI systems while keeping the implementation clean and understandable.
 
 **Key Features:**
 - ✅ Finite State Machine (FSM) for turn-based coordination
