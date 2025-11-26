@@ -271,7 +271,7 @@ curl -X POST http://localhost:8000/sessions/alice/messages \
 
 **2. Stream the response:**
 ```bash
-curl -N http://localhost:8000/sessions//stream
+curl -N http://localhost:8000/sessions/{sessionID}/stream
 
 # You'll see tokens streaming in real-time!
 ```
