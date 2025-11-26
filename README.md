@@ -479,7 +479,7 @@ async def test_valid_state_transitions():
 
 ## Author
 
-Built by Aris Gioutlakis as a demonstration of distributed systems patterns for AI chatbot coordination. Based on production systems built at Novelcore for multi-agent orchestration.
+Built by Aris Gioutlakis as a demonstration of distributed systems patterns for AI chatbot coordination. Based on production systems built for multi-agent orchestration.
 
 **Contact:** arissafaris@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/aris-gioutlakis-14a037386/
@@ -491,4 +491,3 @@ MIT License - Feel free to use this as a reference or starting point for your ow
 ---
 
 **Questions or feedback?** Open an issue or reach out directly!
-```
